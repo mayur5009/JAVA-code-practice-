@@ -1,0 +1,15 @@
+package solied;
+
+public class Halfpyramid {
+
+	public static void main(String[] args) {
+		int n=5;
+		String m ="*";
+		for (int i=1;i<=n;i++) {
+			System.out.println(sum);
+			String sum=1+m;
+		}
+
+	}
+
+}
